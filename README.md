@@ -7,7 +7,7 @@
 Determine the top advertisers for each application and country.  Verve Data Engineering Challenge.
 
 
-Author: Esaa Yamini, Alex Nastetsky
+Authors: Esaa Yamini, Alex Nastetsky
 
 
 # **Process**
