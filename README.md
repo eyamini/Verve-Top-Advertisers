@@ -13,7 +13,7 @@ Author: Esaa Yamini, Alex Nastetsky
 # **Process**
 
 
-Given two json files, make a recommendation for the top 5 advertisers to display for each app and country combination.
+Given two json files, make a recommendation for the top 5 advertisers to display for each app and country combination based on impressions, clicks, and revenue.
 
 
 # **Analysis**
