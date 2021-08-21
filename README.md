@@ -1,7 +1,7 @@
 # **Top-Advertisers**
 
 
-![Images](image1.jpg)
+![Images](image1.jpeg)
 
 
 Determine the top advertisers for each application and country.  Verve Data Engineering Challenge.
