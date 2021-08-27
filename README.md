@@ -19,4 +19,4 @@ Given two json files, make a recommendation for the top 5 advertisers to display
 # **Analysis**
 
 
-The impressions_json file had several duplicate UUIDs which would skew the data.  Removing duplicates reduced unique impressions to 66 events.  Merging impressions_json with the clicks_json (to analyze revenue per impression) further reduced the data to only 64 events.  Analysis of the cleaned data indicates there were no more than two top advertisers for any app_id / country_code combination (as shown in the "recommended_advertiser_id" json file).  Results are significantly different when duplicate UUIDs are not dropped. This can be easily achieved by commenting out (#) the drop_duplicates command. 
+The impressions_json file had several duplicate UUIDs which would skew the data.  Removing duplicates reduced unique impressions to 66 events.  Analysis of the cleaned data indicates there were no more than two top advertisers for any app_id / country_code combination (as shown in the "recommended_advertiser_id" json file).  Results are significantly different when duplicate UUIDs are not dropped.  
